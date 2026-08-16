@@ -23,6 +23,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SeamusDarcy&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeamusDarcy&layout=compact&theme=dark)
